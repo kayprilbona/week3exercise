@@ -1,0 +1,42 @@
+nav {
+	background-color: #F6C8BE;
+	padding: 10px 20px;
+}
+
+li {
+	display: inline-block;
+	margin: 0 auto;
+
+}
+
+a {
+	background-color: #F6C8BE;  
+	color: #fff;
+	padding: 10px 20px;
+	margin: 20px 10px;
+	border-radius: 4px;
+	font-size: 20px;
+}
+
+a:hover {
+	text-decoration: underline;
+	cursor: pointer;
+	transition: 0.3s all ease-in-out;
+}
+
+.buttons {
+	text-align: center;
+	display: inline;
+	border: none;
+	margin: 0 auto;
+	padding: 30px 50px;
+}	
+
+button {
+	background-color: #F6C8BE;
+	font-size: 20px;
+	color: #fff; 
+	padding: 30px;
+	margin: 20px;
+	text-align: center;
+}
